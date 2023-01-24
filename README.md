@@ -1,3 +1,5 @@
+http://detexify.kirelabs.org/classify.html
+
 ### Список вопросов ✔ ♿ ❌
 
 | Вопрос                                                       | Статус |
