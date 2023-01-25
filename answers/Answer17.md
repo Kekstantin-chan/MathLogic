@@ -7,7 +7,7 @@
 Опр. Наборы $\alpha = (a_1, \dots, a_n)$ и $\beta = (b_1, \dots, b_n)$ из $\Omega^n$ называют *соседними*, если они отличаются ровно в одной позиции, т.е.
 
 $$
-\exist i \in \overline{1,n}: a_i \ne b_i \text{ и } \forall j \ne i : a_j = b_j
+\exists i \in \overline{1,n}: a_i \ne b_i \text{ и } \forall j \ne i : a_j = b_j
 $$
 
 *Критерий немонотонности*. Булева функция $f(x_1, \dots, x_n)$ не является монотонной тогда и только тогда, когда существуют соседние наборы $\alpha$ и $\beta$, такие что $\alpha \preccurlyeq \beta$ и $f(\alpha) > f(\beta)$.
